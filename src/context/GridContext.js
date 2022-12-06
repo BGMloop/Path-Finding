@@ -1,3 +1,4 @@
+/*
 import { useContext,createContext } from "react";
 
 const context = createContext()
@@ -16,3 +17,4 @@ export const ParamsProvider = ({children}) => {
 
 }
 //not needed maybe
+*/
